@@ -11,6 +11,7 @@ author_profile: true
 - Degree Honors: Summa Cum Laude
 
 <br/>
+
 **Sejong Science High School  (Mar 2016 - Feb 2018)**
 - High school for gifted students in mathematics and science
 - Early graduation
