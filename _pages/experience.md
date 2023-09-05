@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 **Software Engineering Intern**  
-*RUBIS Lab. in Seoul National University*  
+*[Real-Time Ubiquitous Systems Lab.](https://rubis.snu.ac.kr/) in Seoul National University*  
 *Jan 2022 - Sep 2022*  
 &ensp;◦&ensp;Developed autonomous driving algorithms based on Autoware  
 &ensp;◦&ensp;Participated in data collection for adolescent emotional AI tutors  
@@ -18,7 +18,7 @@ author_profile: true
 processing.  
 
 **Autonomous Driving Intern**  
-*DYROS Lab. in Seoul National University*
+*[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) in Seoul National University*
 *Jan 2020 - Feb 2020*
 &ensp;◦&ensp;Participated in creating datasets for lane detection and traffic light detection.  
 &ensp;◦&ensp;Designed path planning algorithms for vehicle parking.  
