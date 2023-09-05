@@ -18,8 +18,8 @@ author_profile: true
 processing.  
 
 **Autonomous Driving Intern**  
-*[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) in Seoul National University*
-*Jan 2020 - Feb 2020*
+*[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) in Seoul National University*  
+*Jan 2020 - Feb 2020*  
 &ensp;◦&ensp;Participated in creating datasets for lane detection and traffic light detection.  
 &ensp;◦&ensp;Designed path planning algorithms for vehicle parking.  
 
