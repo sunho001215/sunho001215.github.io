@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Education"
+permalink: /education/
 author_profile: true
 ---
 **Seoul National University  (Mar 2018 - Aug 2022)**
