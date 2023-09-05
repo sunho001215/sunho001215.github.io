@@ -9,7 +9,7 @@ author_profile: true
 - B.S. in System Semiconductor Engineering for AI (Interdisciplinary Major)
 - GPA: 3.94/4.3 (cumulative), 3.8/4.3 (major), 3.98/4.3 (interdisciplinary major)
 - Degree Honors: Summa Cum Laude
-  
+
 
 **Sejong Science High School  (Mar 2016 - Feb 2018)**
 - High school for gifted students in mathematics and science
