@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Innovation Unleashed: My Journey So Far"
+title: "Welcome to My Page: My Journey So Far"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
