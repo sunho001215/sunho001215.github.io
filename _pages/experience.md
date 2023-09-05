@@ -10,11 +10,13 @@ author_profile: true
 &ensp;◦&ensp;Developed autonomous driving algorithms based on Autoware  
 &ensp;◦&ensp;Participated in data collection for adolescent emotional AI tutors  
 &ensp;◦&ensp;Conducted research on how to improve the overall response time of ROS (Robot Operating System)  
+
 **Hardware Engineering Intern**  
 *Samsung Electronics (System LSI)*  
 *Jul 2021 - Aug 2021*  
 &ensp;◦&ensp;Analyzed transformer-based deep learning model and designed accelerator hardware specialized in language  
 processing.  
+
 **Autonomous Driving Intern**  
 *DYROS Lab. in Seoul National University*
 *Jan 2020 - Feb 2020*
