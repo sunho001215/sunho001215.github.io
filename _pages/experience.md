@@ -14,10 +14,10 @@ author_profile: true
 *Samsung Electronics (System LSI)*  
 *Jul 2021 - Aug 2021*  
 &ensp;◦&ensp;Analyzed transformer-based deep learning model and designed accelerator hardware specialized in language  
-processing.
+processing.  
 **Autonomous Driving Intern**  
 *DYROS Lab. in Seoul National University*
 *Jan 2020 - Feb 2020*
-&ensp;◦&ensp;Participated in creating datasets for lane detection and traffic light detection.
-&ensp;◦&ensp;Designed path planning algorithms for vehicle parking.
+&ensp;◦&ensp;Participated in creating datasets for lane detection and traffic light detection.  
+&ensp;◦&ensp;Designed path planning algorithms for vehicle parking.  
 
