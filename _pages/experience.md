@@ -9,7 +9,7 @@ author_profile: true
 *Jan 2022 - Sep 2022*  
 $\hspace{5pt}$ ◦&ensp;Developed autonomous driving algorithms based on Autoware ([GitHub](https://github.com/rubis-lab/Autoware_On_Embedded))  
 $\hspace{10pt}$ •&ensp;Particularly involved in sensor fusion and localization using GPS and IMU, creating HD maps using LiDAR data, and developing vehicle control algorithms.  
-$\hspace{10pt}$ •&ensp;Participated in environment setup and experiments to run autonomous driving programs on the NVIDIA Jetson AGX Xavier board.
+$\hspace{10pt}$ •&ensp;Participated in environment setup and experiments to run autonomous driving programs on the NVIDIA Jetson AGX Xavier board.  
 $\hspace{5pt}$ ◦&ensp;Participated in data collection for [digital phenotyping and mental health AI for adolescents](https://rubis.snu.ac.kr/index.php/sample-page/research/)  
 $\hspace{5pt}$ ◦&ensp;Conducted research on how to improve the overall response time of ROS (Robot Operating System)  
 $\hspace{10pt}$ •&ensp;Detailed information can be found on my [Publications](https://sunho001215.github.io/publications/) page.  
