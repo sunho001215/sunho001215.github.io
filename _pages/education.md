@@ -15,14 +15,3 @@ author_profile: true
 > *Mar 2016 - Feb 2018*  
 > - *High school for gifted students in mathematics and science*  
 > - *Early graduation*  
-
-Military Service
-======
-> **Social Service Agent**  
-> *Yangcheon-gu Office, Seoul*  
-> *Nov 2022 - Present*  
-> - Working as an administrative staff member.
-
-> **Korea Army Training Center**  
-> *Korea Army, Republic of Korea*  
-> *Oct 2022*  
