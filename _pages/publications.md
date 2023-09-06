@@ -6,7 +6,7 @@ author_profile: true
 ---
 > **Optimizing the Response Time for ROS Tasks in Multi-Core Processors**  
 > *Sunho Kim, Hayeon Park, Chang-Gun Lee*  
-> *IEEE/ACM International Symposium on Distributed Simulation and Real-Time Applications, 2023*  
+> *IEEE/ACM International Symposium on Distributed Simulation and Real-Time Applications (DS-RT), 2023*  
   
 > **Autoware Controller Interface for Actual Vehicle Driving**  
 > *Sunho Kim, Dongmin Shin, Chang-Gun Lee*  
