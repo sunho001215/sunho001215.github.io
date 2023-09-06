@@ -4,15 +4,15 @@ title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
->> **Software Engineering Intern**  
->> *[Real-Time Ubiquitous Systems Lab.](https://rubis.snu.ac.kr/) in Seoul National University*  
->> *Jan 2022 - Sep 2022*  
->> - Developed autonomous driving algorithms based on Autoware ([GitHub](https://github.com/rubis-lab/Autoware_On_Embedded))  
->>     - Particularly involved in sensor fusion and localization using GPS and IMU, creating HD maps using LiDAR data, and developing vehicle control algorithms.  
->>     - Participated in environment setup and experiments to run autonomous driving programs on the NVIDIA Jetson AGX Xavier board.  
->> - Participated in data collection for [digital phenotyping and mental health AI for adolescents](https://rubis.snu.ac.kr/index.php/sample-page/research/)  
->> - Conducted research on how to improve the overall response time of ROS (Robot Operating System)  
->>    - Detailed information can be found on my [Publications](https://sunho001215.github.io/publications/) page.  
+> **Software Engineering Intern**  
+> *[Real-Time Ubiquitous Systems Lab.](https://rubis.snu.ac.kr/) in Seoul National University*  
+> *Jan 2022 - Sep 2022*  
+> - Developed autonomous driving algorithms based on Autoware ([GitHub](https://github.com/rubis-lab/Autoware_On_Embedded))  
+>     - Particularly involved in sensor fusion and localization using GPS and IMU, creating HD maps using LiDAR data, and developing vehicle control algorithms.  
+>     - Participated in environment setup and experiments to run autonomous driving programs on the NVIDIA Jetson AGX Xavier board.  
+> - Participated in data collection for [digital phenotyping and mental health AI for adolescents](https://rubis.snu.ac.kr/index.php/sample-page/research/)  
+> - Conducted research on how to improve the overall response time of ROS (Robot Operating System)  
+>    - Detailed information can be found on my [Publications](https://sunho001215.github.io/publications/) page.  
 
 **Hardware Engineering Intern**  
 *Samsung Electronics (System LSI)*  
