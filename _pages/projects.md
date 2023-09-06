@@ -30,5 +30,5 @@ author_profile: true
 *Jan 2020 - Feb 2020*  
 
 **DYROS Robotics Boot Camp**  
-*[Dynamic Robotic Systems Lab.](http://dyros.snu.ac.kr/) Bootcamp for ROS (Robot Operating System) and Linux*  
+*DYROS Bootcamp for ROS (Robot Operating System) and Linux*  
 *Jan 2019*  
