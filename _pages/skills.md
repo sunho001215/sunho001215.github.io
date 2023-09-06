@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Skills"
-permalink: /skills2/
+permalink: /skills/
 author_profile: true
 ---
 $\hspace{5pt}$ **Programming**
