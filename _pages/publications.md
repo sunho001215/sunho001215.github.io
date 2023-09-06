@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publication/
+permalink: /publications/
 author_profile: true
 ---
 > **Optimizing the Response Time for ROS Tasks in Multi-Core Processors**  
