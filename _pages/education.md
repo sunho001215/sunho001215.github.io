@@ -15,3 +15,11 @@ $\hspace{5pt}$ ◦&ensp;*Degree Honors: Summa Cum Laude*
 *Mar 2016 - Feb 2018*  
 $\hspace{5pt}$ ◦&ensp;*High school for gifted students in mathematics and science*  
 $\hspace{5pt}$ ◦&ensp;*Early graduation*  
+
+Military Service
+======
+**Social Service Agent**  
+*Nov 2022 - Present*  
+
+**Korea Army Training Center** 
+*Oct 2022*  
