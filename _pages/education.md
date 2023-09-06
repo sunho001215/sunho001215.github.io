@@ -21,5 +21,5 @@ Military Service
 **Social Service Agent**  
 *Nov 2022 - Present*  
 
-**Korea Army Training Center** 
+**Korea Army Training Center**  
 *Oct 2022*  
