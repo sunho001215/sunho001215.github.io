@@ -26,3 +26,13 @@ author_profile: true
 > - Participated in creating datasets for lane detection and traffic light detection.  
 > - Designed path planning algorithms for vehicle parking.  
 
+Military Service
+======
+> **Social Service Agent**  
+> *Yangcheon-gu Office, Seoul*  
+> *Nov 2022 - Present*  
+> - Working as an administrative staff member.
+
+> **Korea Army Training Center**  
+> *Korea Army, Republic of Korea*  
+> *Oct 2022*  
