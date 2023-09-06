@@ -26,9 +26,9 @@ author_profile: true
 *Mar 2020 - Aug 2020*  
 
 **Autonomous Delivery Project**  
-*Autonomous Delivery Project conducted by ARI Lab.*  
+*Autonomous Delivery Project conducted by [Autonomous Robot Intelligence Lab.](https://arisnu.squarespace.com/)*  
 *Jan 2020 - Feb 2020*  
 
 **DYROS Robotics Boot Camp**  
-*DYROS Lab. Bootcamp for ROS (Robot Operating System) and Linux*  
+*[Dynamic Robotic Systems Lab.](http://dyros.snu.ac.kr/) Bootcamp for ROS (Robot Operating System) and Linux*  
 *Jan 2019*  
