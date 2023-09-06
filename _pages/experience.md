@@ -18,6 +18,7 @@ author_profile: true
 *Samsung Electronics (System LSI)*  
 *Jul 2021 - Aug 2021*  
 &ensp;◦&ensp;Analyzed transformer-based deep learning model and designed accelerator hardware specialized in language processing.  
+&ensp;◦&ensp;Completed new employee orientation program.
 
 **Autonomous Driving Intern**  
 *[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) in Seoul National University*  
