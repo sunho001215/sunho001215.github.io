@@ -9,20 +9,20 @@ author_profile: true
 *Jan 2022 - Sep 2022*  
 > ◦&ensp;Developed autonomous driving algorithms based on Autoware ([GitHub](https://github.com/rubis-lab/Autoware_On_Embedded))  
 >> •&ensp;Particularly involved in sensor fusion and localization using GPS and IMU, creating HD maps using LiDAR data, and developing vehicle control algorithms.  
-&ensp; &ensp;•&ensp;Participated in environment setup and experiments to run autonomous driving programs on the NVIDIA Jetson AGX Xavier board.  
-&ensp;◦&ensp;Participated in data collection for [digital phenotyping and mental health AI for adolescents](https://rubis.snu.ac.kr/index.php/sample-page/research/)  
-&ensp;◦&ensp;Conducted research on how to improve the overall response time of ROS (Robot Operating System)  
-&ensp; &ensp;•&ensp;Detailed information can be found on my [Publications](https://sunho001215.github.io/publications/) page.  
+>> •&ensp;Participated in environment setup and experiments to run autonomous driving programs on the NVIDIA Jetson AGX Xavier board.  
+> ◦&ensp;Participated in data collection for [digital phenotyping and mental health AI for adolescents](https://rubis.snu.ac.kr/index.php/sample-page/research/)  
+> ◦&ensp;Conducted research on how to improve the overall response time of ROS (Robot Operating System)  
+>> •&ensp;Detailed information can be found on my [Publications](https://sunho001215.github.io/publications/) page.  
 
 **Hardware Engineering Intern**  
 *Samsung Electronics (System LSI)*  
 *Jul 2021 - Aug 2021*  
-&ensp;◦&ensp;Analyzed transformer-based deep learning model and designed accelerator hardware specialized in language processing.  
-&ensp;◦&ensp;Completed new employee orientation program.
+> ◦&ensp;Analyzed transformer-based deep learning model and designed accelerator hardware specialized in language processing.  
+> ◦&ensp;Completed new employee orientation program.
 
 **Autonomous Driving Intern**  
 *[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) in Seoul National University*  
 *Jan 2020 - Feb 2020*  
-&ensp;◦&ensp;Participated in creating datasets for lane detection and traffic light detection.  
-&ensp;◦&ensp;Designed path planning algorithms for vehicle parking.  
+> ◦&ensp;Participated in creating datasets for lane detection and traffic light detection.  
+> ◦&ensp;Designed path planning algorithms for vehicle parking.  
 
