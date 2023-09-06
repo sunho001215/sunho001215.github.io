@@ -19,7 +19,10 @@ $\hspace{5pt}$ ◦&ensp;*Early graduation*
 Military Service
 ======
 **Social Service Agent**  
+*Yangcheon-gu Office, Seoul*  
 *Nov 2022 - Present*  
+$\hspace{5pt}$ ◦&ensp;Working as an administrative staff member in the Bicycle Traffic Team.
 
 **Korea Army Training Center**  
+*Korea Army, Republic of Korea*  
 *Oct 2022*  
