@@ -4,13 +4,13 @@ title: "Skills"
 permalink: /skills2/
 author_profile: true
 ---
-\vspace*{0.2}
+$\vspace{5pt}$ 
 \skills{Programming} & &    
-\vspace*{0.2} Git, \LaTeX, Matlab, MarkDown, Python, C, C++ \\
-\vspace*{0.2}
+$\vspace{5pt}$  Git, \LaTeX, Matlab, MarkDown, Python, C, C++ \\
+$\vspace{5pt}$ 
 \skills{Hardware Design} & &    
-\vspace*{0.2} Verilog, Bluespec, ModelSim, Vivado, Cadence Virtuoso \\
-\vspace*{0.2}
+$\vspace{5pt}$  Verilog, Bluespec, ModelSim, Vivado, Cadence Virtuoso \\
+$\vspace{5pt}$ 
 \skills{Communication} & &   
 \vspace*{0.2} Korean (native), English (103/120 TOEFL)\\
-\end{tabular}
+
