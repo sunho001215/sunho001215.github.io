@@ -16,7 +16,6 @@ author_profile: true
 > 
 > <p><b>Details</b> <br>
 > <img src='/images/AIX-structure.png'>
-<!-- > <img class="AIX-structure" src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/AIX-structure.png" alt="Our team's hardware design"/> <br> -->
 > Our team designed a high-performance and power-efficient FPGA implementation for CNN inference, which includes an adder-tree-based computational unit tailored for the Tiny-YOLO v3 model and a datapath that minimizes buffer usage while maximizing computational parallelism, effectively optimizing performance within the constraints of limited on-chip memory. </p> 
 > 
 > <p><b>Remarks</b> <br>
