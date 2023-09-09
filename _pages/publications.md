@@ -6,7 +6,14 @@ author_profile: true
 ---
 > **Optimizing the Response Time for ROS Tasks in Multi-Core Processors**  
 > *Sunho Kim, Hayeon Park, Chang-Gun Lee*  
-> *IEEE/ACM International Symposium on Distributed Simulation and Real-Time Applications (DS-RT), 2023*  
+> *IEEE/ACM International Symposium on Distributed Simulation and Real-Time Applications (DS-RT), 2023*
+> <details>
+> <summary>Click to toggle details</summary>
+>
+> <p><b>Abstract</b> <br>
+> This paper presents methods to optimize the response time of ROS (Robot Operating System), a widely utilized open-source meta-operating system in robotic software development. Despite its popularity, ROS lacks real-time capabilities, making it unsuitable for real-time control and difficult to use in embedded systems. Recently, DAG (Directed Acyclic Graph) task scheduling algorithms have gained much attention, but they are challenging to apply in the current design of ROS. In this work, we analyze that there are three major challenges in ROS; (i) misalignment delay, (ii) message delivery mechanism using TCP/IP, and (iii) multiple overlapping instances of a single task. We first calculate the new response time bound considering misalignment delay and propose an optimization technique using it to solve the first problem. Furthermore, we address the remaining challenges by assigning priority to the nodes of the DAG and ksoftirqd processes. Our experiments using random tasks show significant improvement, outperforming the state-ofart methods. In addition, our methods are validated through testing autonomous driving software on embedded systems, proving their real-world applicability.</p> 
+> 
+> </details>
   
 > **Autoware Controller Interface for Actual Vehicle Driving**  
 > *Sunho Kim, Dongmin Shin, Chang-Gun Lee*  
