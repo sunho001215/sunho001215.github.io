@@ -63,13 +63,13 @@ author_profile: true
 > 
 > <p><b>Photo</b> <br>
 > TurtleBot <br>
-> <img src='/images/zero-1.jpg' width="600" height="450"/> <br>
+> <img src='/images/zero-1.jpg' width="300" height="225"/> <br>
 > Driving Area Detection (U-Net) <br>
-> <img src='/images/zero-2.bmp' width="600" height="450"/>
-> <img src='/images/zero-3.bmp' width="600" height="450"/> <br>
+> <img src='/images/zero-2.bmp' width="300" height="225"/>
+> <img src='/images/zero-3.bmp' width="300" height="225"/> <br>
 > Robot Position Detection (DOPE) <br>
-> <img src='/images/zero-4.bmp' width="600" height="450"/>
-> <img src='/images/zero-5.bmp' width="600" height="450"/> <br>
+> <img src='/images/zero-4.bmp' width="300" height="225"/>
+> <img src='/images/zero-5.bmp' width="300" height="225"/> <br>
 > </p> 
 > </details>
 
