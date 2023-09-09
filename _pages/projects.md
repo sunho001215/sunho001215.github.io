@@ -105,7 +105,6 @@ author_profile: true
 > This competition is an undergraduate contest organized by the Ministry of Land, Infrastructure, and Transport of South Korea. It involves various tasks such as static obstacle avoidance, dynamic obstacle avoidance, traffic light recognition, parking, and curve driving. Awards are given to the teams that complete all missions in the shortest amount of time. This competition encompasses everything from building a platform capable of autonomous driving to developing the autonomous driving software itself. </p> 
 > 
 > <p><b>Details</b> <br>
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/EEYO5-M3jzM?si=ExjMZN9KNvOAHDF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
 > I served as the Deputy Team Leader for the entire project and concurrently held the position of Team Leader for the Vision Team. The project was conducted at the Future Mobility Technology Center (FMTC) at Seoul National University. Our team implemented an autonomous driving platform using two cameras, one LiDAR, one GPS, and one IMU. We developed a comprehensive autonomous driving algorithm that includes HD map creation, localization, path-planning, object detection and vision algorithms. I developed autonomous driving software, focusing particularly on real-time parking slot detection using a modified version of YOLO v3, traffic light detection with YOLO v3, and lane detection utilizing the LaneNet algorithm. (<a href="https://github.com/snuzero2020/zero">GitHub</a>)</p> 
 > 
 > <p><b>Remarks</b> <br>
@@ -117,6 +116,9 @@ author_profile: true
 > <img src='/images/zero-3.jpg'/> <br>
 > </p> -->
 >
+> <p><b>Video</b> <br>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/EEYO5-M3jzM?si=ExjMZN9KNvOAHDF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+> </p> 
 > </details>
 
 > **Autonomous Delivery Project**  
@@ -129,12 +131,14 @@ author_profile: true
 > This project was conducted at ARI lab, and the goal of the project is to develop a delivery robot capable of delivering food without human intervention. </p> 
 > 
 > <p><b>Details</b> <br>
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/hNRs1_4xCZg?si=IwGqDo_XmYC7_GKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
 > I participated in the initial phase of the project. (<a href="https://www.youtube.com/watch?v=hNRs1_4xCZg">YouTube</a>) </p> 
 > 
 > <p><b>Remarks</b> <br>
 > The entire process of the project was carried out under the guidance of Professor <a href="https://arisnu.squarespace.com/director">Sungwoo Kim</a> at Seoul National University. </p> 
 > 
+> <p><b>Video</b> <br>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/hNRs1_4xCZg?si=IwGqDo_XmYC7_GKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+> </p> 
 > </details>
 
 > **DYROS Robotics Boot Camp**  
