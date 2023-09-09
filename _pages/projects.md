@@ -22,9 +22,9 @@ author_profile: true
 > 
 > <p><b>Photo</b> <br>
 > AI Accelerator Architecture <br>
-> <img src='/images/AIX-structure.png' width="670" height="400"/> <br>
+> <img src='/images/AIX-structure.png' width="450"/> <br>
 > Competition Result <br>
-> <img src='/images/AIX-result.png'/> <br>
+> <img src='/images/AIX-result.png' width="450" /> <br>
 > </p> 
 > 
 > </details>
@@ -40,7 +40,7 @@ author_profile: true
 > This competition is organized by Hyundai Motor and is open to both undergraduate and graduate students in Korea. The preliminary round takes place in the CarMaker simulation environment, where participants undertake various tasks such as dynamic obstacle avoidance, static obstacle avoidance, traffic light handling, and lane-keeping. The final round retains similar missions but is conducted using modified real vehicles. </p> 
 > 
 > <p><b>Details</b> <br>
-> I developed software to execute various missions in the CarMaker simulation, contributing to the development of object detection through a modified version of YOLO v3, object tracking using Kalman Filter with lidar and camera, and implementing an Optimal Frenet Planning algorithm for path planning (<a href="https://vdcl.snu.ac.kr/members/professor">GitHub</a>). </p> 
+> I developed software to execute various missions in the CarMaker simulation, contributing to the development of object detection through a modified version of YOLO v3, object tracking using Kalman Filter with lidar and camera, and implementing an Optimal Frenet Planning algorithm for path planning. (<a href="https://vdcl.snu.ac.kr/members/professor">GitHub</a>) </p> 
 > 
 > <p><b>Remarks</b> <br>
 > Our team participated in this competition up to the preliminary round after passing the document screening. The entire process of the project was carried out under the guidance of Professor <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> at Seoul National University. </p> 
