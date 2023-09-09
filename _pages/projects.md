@@ -53,6 +53,19 @@ author_profile: true
 > **X-Corps Project 2020**  
 > *Undergraduate Project hosted by Seoul National University*  
 > *Jul 2020 - Dec 2020*  
+> <details>
+> <summary>Click to toggle details</summary>
+> 
+> <p><b>Project Description</b> <br>
+> This project is supported by the Practical Problem Research Group at Seoul National University. The aim of this project is to cultivate talents capable of solving real-world problems by supporting interdisciplinary research tasks primarily led by undergraduate students. </p> 
+> 
+> <p><b>Details</b> <br>
+> The theme and content of this project are identical to those of the K-Startup Maker Project 2020. </p> 
+> 
+> <p><b>Remarks</b> <br>
+> This project was carried out with a grant of $5,000, and as a result of the competition, we received an excellence prize along with a prize money of $1,000. The entire process of the project was carried out under the guidance of Professor <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Songhwai Oh</a>) at Seoul National University. </p> 
+> 
+> </details>
 
 > **International Student Car Competition 2020**  
 > *Autonomous Driving Competition for International Students*  
