@@ -31,6 +31,7 @@ author_profile: true
 > **HMG Autonomous Driving Challenge 2021**  
 > *Hyundai Motor’s Autonomous Driving Competition for Undergraduate/Graduate Students*  
 > *Aug 2020 - Feb 2021*
+> <details>
 > <summary>Click to toggle details</summary>
 > 
 > <p><b>Project Description</b> <br>
@@ -38,7 +39,6 @@ author_profile: true
 > This competition is organized by Hyundai Motor and is open to both undergraduate and graduate students in Korea. The preliminary round takes place in the CarMaker simulation environment, where participants undertake various tasks such as dynamic obstacle avoidance, static obstacle avoidance, traffic light handling, and lane-keeping. The final round retains similar missions but is conducted using modified real vehicles. </p> 
 > 
 > <p><b>Details</b> <br>
-> <img src='/images/AIX-structure.png' width="670" height="400"/> <br>
 > I developed software to execute various missions in the CarMaker simulation, contributing to the development of object detection through a modified version of YOLO v3, object tracking using Kalman Filter with lidar and camera, and implementing an Optimal Frenet Planning algorithm for path planning (available on <a href="https://github.com/SNUZERO2021/hmgchallenge_public">GitHub</a>). </p> 
 > 
 > <p><b>Remarks</b> <br>
