@@ -21,7 +21,7 @@ author_profile: true
 > </p> 
 > 
 > <p><b>Remarks</b> <br>
-> - Organized presentation for special session in [IEEE AICAS 2022](https://aicas2022.org/?page_id=188).
+> - Organized presentation for special session in <a href="https://aicas2022.org/?page_id=188">IEEE AICAS 2022</a>. <br>
 > - 2nd Place out of 111 Teams, won $2,000
 > </p> 
 > 
