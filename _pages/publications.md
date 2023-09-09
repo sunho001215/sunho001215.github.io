@@ -16,7 +16,7 @@ author_profile: true
 > 
 > ### Abstract (English Version)  
 > Autoware is an open-source software for autonomous driving based on the Robot Operating System (ROS), providing various functions necessary for autonomous operation. To implement Autoware in an actual vehicle, an additional controller interface is required between the Autoware output and the vehicle's CAN input. This paper proposes a controller interface that includes a PID-based acceleration controller and a conversion function between steering wheel angle and vehicle steering angle. By utilizing this, we demonstrate the feasibility of real-vehicle operation and compare the linear model and the piecewise linear model through experiments. The results show that the controller interface incorporating the piecewise linear model offers better path-following performance and stability.  
-> ### Remark  
+> ### Remarks 
 > This paper received the Participation Award at the KCC Undergraduate Thesis Award 2022.
 > 
 > </details>
