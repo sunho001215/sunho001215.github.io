@@ -22,7 +22,7 @@ author_profile: true
 > Our team presented in a special session at IEEE AICAS 2022 and secured 2nd place out of 111 teams, winning a $2,000 prize. </p> 
 > 
 > <p><b>Photo</b> <br>
-> <img class="AIX-structure" src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/AIX-result.png" alt="2nd place"/> <br>
+> <img src='/images/AIX-result.png'/>
 > </p> 
 > 
 > </details>
