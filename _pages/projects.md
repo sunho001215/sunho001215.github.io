@@ -49,6 +49,19 @@ author_profile: true
 > **K-Startup Maker Project 2020**  
 > *Maker Project hosted by the Korean Government (K-Startup)*  
 > *Jul 2020 - Dec 2020*  
+> <details>
+> <summary>Click to toggle details</summary>
+> 
+> <p><b>Project Description</b> <br>
+> This project is one of the maker projects, which involve creative activities using digital devices and various tools to bring one's ideas to life, supported by the Ministry of SMEs and Startups of the South Korean government. It's an inclusive project that allows participation from high school students to university students and even working professionals. </p> 
+> 
+> <p><b>Details</b> <br>
+> The goal of this project was to control a robot without attaching any sensors to it, aside from actuators. We set this objective because we believe that the multitude of sensors typically attached to robots increases production costs, making it difficult for them to be widely adopted in our society. To control the robot, we installed multiple external cameras and performed driving area detection using U-Net and robot position detection using DOPE. To generate training data, we set up a ROS Gazebo simulation environment, which provided the necessary data for learning, and subsequently applied it to a real-world setting. For the robot platform, we used TurtleBot. (<a href="https://github.com/snuzero2020/zero_maker">GitHub</a>) </p> 
+> 
+> <p><b>Remarks</b> <br>
+> This project was carried out with a grant of 5,000 dollars. </p> 
+> 
+> </details>
 
 > **X-Corps Project 2020**  
 > *Undergraduate Project hosted by Seoul National University*  
