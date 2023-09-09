@@ -15,15 +15,10 @@ author_profile: true
 > This competition is organized by Polaris, South Korea's next-generation Semiconductor Convergence University, and is targeted at college students nationwide. The goal of the competition is to run the Yolov3 model on an FPGA board, and the team that designs the fastest and most energy-efficient hardware will be declared the winner. </p> 
 > 
 > <p><b>Details</b> <br>
-> - Designed high-performance and power-efficient FPGA implementation for CNN inference <br>
-> - Designed an adder-tree-based computational unit tailored to Tiny-YOLO v3 model that computes convolutions in parallel and consumes minimal cycles <br>
-> - Designed the datapath to minimize the buffer usage and maximize computational parallelism, achieving maximum performance with limited on-chip memory <br>
-> </p> 
+> Our team designed a high-performance and power-efficient FPGA implementation for CNN inference, which includes an adder-tree-based computational unit tailored for the Tiny-YOLO v3 model and a datapath that minimizes buffer usage while maximizing computational parallelism, effectively optimizing performance within the constraints of limited on-chip memory. </p> 
 > 
 > <p><b>Remarks</b> <br>
-> - Organized presentation for special session in <a href="https://aicas2022.org/?page_id=188">IEEE AICAS 2022</a>. <br>
-> - 2nd Place out of 111 Teams, won $2,000
-> </p> 
+> Our team presented in a special session at IEEE AICAS 2022 and secured 2nd place out of 111 teams, winning a $2,000 prize. </p> 
 > 
 > <p><b>Photo</b> <br>
 > </p> 
