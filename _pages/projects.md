@@ -61,6 +61,16 @@ author_profile: true
 > <p><b>Remarks</b> <br>
 > This project was carried out with a grant of 5,000 dollars. </p> 
 > 
+> <p><b>Photo</b> <br>
+> TurtleBot <br>
+> <img src='/images/zero-1.jpg'/> <br>
+> Driving Area Detection (U-Net) <br>
+> <img src='/images/zero-2.bmp'/> <br>
+> <img src='/images/zero-3.bmp'/> <br>
+> Robot Position Detection (DOPE) <br>
+> <img src='/images/zero-4.bmp'/> <br>
+> <img src='/images/zero-5.bmp'/> <br>
+> </p> 
 > </details>
 
 > **X-Corps Project 2020**  
