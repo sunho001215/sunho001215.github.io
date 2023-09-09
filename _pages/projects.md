@@ -83,11 +83,11 @@ author_profile: true
 > <p><b>Remarks</b> <br>
 > The entire process of this competition was conducted under the guidance and assistance of <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> and Dr. Lee Jae-wan. </p> 
 > 
-> <p><b>Photo</b> <br>
+<!-- > <p><b>Photo</b> <br>
 > <img src='/images/zero-1.jpg'/> <br>
 > <img src='/images/zero-2.jpg'/> <br>
 > <img src='/images/zero-3.jpg'/> <br>
-> </p>
+> </p> -->
 >
 > </details>
 
