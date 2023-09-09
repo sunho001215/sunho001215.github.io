@@ -7,7 +7,29 @@ author_profile: true
 
 > **Deep Learning Hardware Design Competition 2022**  
 > *AI Accelerator Design Competition for Undergraduate Students*  
-> *Feb 2022 - Jul 2022*  
+> *Feb 2022 - Jul 2022*
+> <details>
+> <summary>Click to toggle details</summary>
+> 
+> <p><b>Project Description</b> <br>
+This competition is organized by Polaris, South Korea's next-generation Semiconductor Convergence University, and is targeted at college students nationwide. The goal of the competition is to run the Yolov3 model on an FPGA board, and the team that designs the fastest and most energy-efficient hardware will be declared the winner. </p> 
+> 
+> <p><b>Details</b> <br>
+> - Designed high-performance and power-efficient FPGA implementation for CNN inference <br>
+> - Designed an adder-tree-based computational unit tailored to Tiny-YOLO v3 model that computes convolutions in parallel and consumes minimal cycles <br>
+> - Designed the datapath to minimize the buffer usage and maximize computational parallelism, achieving maximum performance with limited on-chip memory <br>
+> </p> 
+> 
+> <p><b>Remarks</b> <br>
+> - Organized presentation for special session in [IEEE AICAS 2022](https://aicas2022.org/?page_id=188).
+> - 2nd Place out of 111 Teams, won $2,000
+> </p> 
+> 
+> <p><b>Photo</b> <br>
+> </p> 
+> 
+> </details>
+
 
 > **HMG Autonomous Driving Challenge 2021**  
 > *Hyundai Motor’s Autonomous Driving Competition for Undergraduate/Graduate Students*  
