@@ -63,7 +63,7 @@ author_profile: true
 > The theme and content of this project are identical to those of the K-Startup Maker Project 2020. </p> 
 > 
 > <p><b>Remarks</b> <br>
-> This project was carried out with a grant of $5,000, and as a result of the competition, we received an excellence prize along with a prize money of $1,000. The entire process of the project was carried out under the guidance of Professor <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Songhwai Oh</a> at Seoul National University. </p> 
+> This project was carried out with a grant of /$5,000, and as a result of the competition, we received an excellence prize along with a prize money of /$1,000. The entire process of the project was carried out under the guidance of Professor <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Songhwai Oh</a> at Seoul National University. </p> 
 > 
 > </details>
 
