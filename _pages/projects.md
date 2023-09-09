@@ -92,3 +92,10 @@ author_profile: true
 > **DYROS Robotics Boot Camp**  
 > *DYROS Bootcamp for ROS (Robot Operating System) and Linux*  
 > *Jan 2019*  
+> <details>
+> <summary>Click to toggle details</summary>
+> 
+> <p><b>Description</b> <br>
+> DYROS Boot Camp is an educational program conducted by <a href="http://dyros.snu.ac.kr/features/about-us/">DYROS lab.</a>, offering lectures on ROS, Linux, and robot simulators. </p> 
+> 
+> </details>
