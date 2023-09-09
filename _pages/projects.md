@@ -81,7 +81,7 @@ author_profile: true
 > This project was conducted at ARI lab, and the goal of the project is to develop a delivery robot capable of delivering food without human intervention. </p> 
 > 
 > <p><b>Details</b> <br>
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/hNRs1_4xCZg?si=7obMhUwrnMKk5AYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/hNRs1_4xCZg?si=7obMhUwrnMKk5AYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>
 > I participated in the initial phase of the project. </p> 
 > 
 > <p><b>Remarks</b> <br>
