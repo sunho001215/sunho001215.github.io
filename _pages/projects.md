@@ -63,7 +63,7 @@ author_profile: true
 > The theme and content of this project are identical to those of the K-Startup Maker Project 2020. </p> 
 > 
 > <p><b>Remarks</b> <br>
-> This project was carried out with a grant of &dollar;5,000, and as a result of the competition, we received an excellence prize along with a prize money of &dollar;1,000. The entire process of the project was carried out under the guidance of Professor <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Songhwai Oh</a> at Seoul National University. </p> 
+> This project was carried out with a grant of 5,000 dollars, and as a result of the competition, we received an excellence prize along with a prize money of 1,000 dollars. The entire process of the project was carried out under the guidance of Professor <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Songhwai Oh</a> at Seoul National University. </p> 
 > 
 > </details>
 
@@ -73,7 +73,21 @@ author_profile: true
 
 > **Autonomous Delivery Project**  
 > *Autonomous Delivery Project conducted by [Autonomous Robot Intelligence Lab.](https://arisnu.squarespace.com/)*  
-> *Jan 2020 - Feb 2020*  
+> *Jan 2020 - Feb 2020*
+> <details>
+> <summary>Click to toggle details</summary>
+> 
+> <p><b>Project Description</b> <br>
+> This project was conducted at ARI lab, and the goal of the project is to develop a delivery robot capable of delivering food without human intervention. </p> 
+> 
+> <p><b>Details</b> <br>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/hNRs1_4xCZg?si=7obMhUwrnMKk5AYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> I participated in the initial phase of the project. </p> 
+> 
+> <p><b>Remarks</b> <br>
+> The entire process of the project was carried out under the guidance of Professor <a href="https://arisnu.squarespace.com/director">Sungwoo Kim</a> at Seoul National University. </p> 
+> 
+> </details>
 
 > **DYROS Robotics Boot Camp**  
 > *DYROS Bootcamp for ROS (Robot Operating System) and Linux*  
