@@ -35,7 +35,7 @@ author_profile: true
 > <summary>Click to toggle details</summary>
 > 
 > <p><b>Project Description</b> <br>
-> <img src='/images/CarMaker.jpg'/> <br>
+> <img src='/images/CarMaker.webp'/> <br>
 > This competition is organized by Hyundai Motor and is open to both undergraduate and graduate students in Korea. The preliminary round takes place in the CarMaker simulation environment, where participants undertake various tasks such as dynamic obstacle avoidance, static obstacle avoidance, traffic light handling, and lane-keeping. The final round retains similar missions but is conducted using modified real vehicles. </p> 
 > 
 > <p><b>Details</b> <br>
