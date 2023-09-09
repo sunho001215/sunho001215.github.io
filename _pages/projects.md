@@ -12,7 +12,7 @@ author_profile: true
 > <summary>Click to toggle details</summary>
 > 
 > <p><b>Project Description</b> <br>
-This competition is organized by Polaris, South Korea's next-generation Semiconductor Convergence University, and is targeted at college students nationwide. The goal of the competition is to run the Yolov3 model on an FPGA board, and the team that designs the fastest and most energy-efficient hardware will be declared the winner. </p> 
+> This competition is organized by Polaris, South Korea's next-generation Semiconductor Convergence University, and is targeted at college students nationwide. The goal of the competition is to run the Yolov3 model on an FPGA board, and the team that designs the fastest and most energy-efficient hardware will be declared the winner. </p> 
 > 
 > <p><b>Details</b> <br>
 > - Designed high-performance and power-efficient FPGA implementation for CNN inference <br>
