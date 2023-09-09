@@ -35,7 +35,6 @@ author_profile: true
 > <summary>Click to toggle details</summary>
 > 
 > <p><b>Project Description</b> <br>
-> <img src='/images/CarMaker.webp'/> <br>
 > This competition is organized by Hyundai Motor and is open to both undergraduate and graduate students in Korea. The preliminary round takes place in the CarMaker simulation environment, where participants undertake various tasks such as dynamic obstacle avoidance, static obstacle avoidance, traffic light handling, and lane-keeping. The final round retains similar missions but is conducted using modified real vehicles. </p> 
 > 
 > <p><b>Details</b> <br>
@@ -44,6 +43,10 @@ author_profile: true
 > <p><b>Remarks</b> <br>
 > Our team participated in this competition up to the preliminary round after passing the document screening. The entire process of the project was carried out under the guidance of Professor <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> at Seoul National University. </p> 
 > 
+> <p><b>Photo</b> <br>
+> CarMaker Simulation <br>
+> <img src='/images/CarMaker.webp' width="450"/> <br>
+> </p> 
 > </details>
 
 > **K-Startup Maker Project 2020**  
