@@ -20,7 +20,7 @@ author_profile: true
 > <p><b>Remarks</b> <br>
 > Our team presented in a special session at <a href="https://aicas2022.org/?page_id=188">IEEE AICAS 2022</a> and secured 2nd place out of 111 teams, winning a $2,000 prize. </p> 
 > 
-> <p><b>Photo</b> <br>
+> <p><b>Images</b> <br>
 > AI Accelerator Architecture <br>
 > <img src='/images/AIX.PNG' width="450"/> <br>
 > Competition Result <br>
@@ -45,7 +45,7 @@ author_profile: true
 > <p><b>Remarks</b> <br>
 > Our team participated in this competition up to the preliminary round after passing the document screening. The entire process of the project was carried out under the guidance of Professor <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> at Seoul National University. </p> 
 > 
-> <p><b>Photo</b> <br>
+> <p><b>Images</b> <br>
 > CarMaker Simulation <br>
 > <img src='/images/CarMaker.webp' width="450"/> <br>
 > </p> 
@@ -66,7 +66,7 @@ author_profile: true
 > <p><b>Remarks</b> <br>
 > This project was carried out with a grant of 5,000 dollars. </p> 
 > 
-> <p><b>Photo</b> <br>
+> <p><b>Images</b> <br>
 > TurtleBot <br>
 > <img src='/images/zero-1.jpg' width="300" height="225"/> <br>
 > Driving Area Detection (U-Net) <br>
@@ -111,7 +111,7 @@ author_profile: true
 > <p><b>Remarks</b> <br>
 > The entire process of this competition was conducted under the guidance and assistance of <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> and Dr. Lee Jae-wan. </p> 
 > 
-<!-- > <p><b>Photo</b> <br>
+<!-- > <p><b>Images</b> <br>
 > <img src='/images/zero-1.jpg'/> <br>
 > <img src='/images/zero-2.jpg'/> <br>
 > <img src='/images/zero-3.jpg'/> <br>
