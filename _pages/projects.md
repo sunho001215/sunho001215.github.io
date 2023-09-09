@@ -96,6 +96,6 @@ author_profile: true
 > <summary>Click to toggle details</summary>
 > 
 > <p><b>Description</b> <br>
-> DYROS Boot Camp is an educational program conducted by <a href="http://dyros.snu.ac.kr/features/about-us/">DYROS lab.</a>, offering lectures on ROS, Linux, and robot simulators. </p> 
+> DYROS Boot Camp is an educational program conducted by <a href="http://dyros.snu.ac.kr/features/about-us/">DYROS lab</a>, offering lectures on ROS, Linux, and robot simulators. </p> 
 > 
 > </details>
