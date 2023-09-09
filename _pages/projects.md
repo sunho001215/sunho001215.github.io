@@ -22,7 +22,7 @@ author_profile: true
 > 
 > <p><b>Photo</b> <br>
 > AI Accelerator Architecture <br>
-> <img src='/images/AIX-structure.png' width="450"/> <br>
+> <img src='/images/AIX.PNG' width="450"/> <br>
 > Competition Result <br>
 > <img src='/images/AIX-result.png' width="450" /> <br>
 > </p> 
