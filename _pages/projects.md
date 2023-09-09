@@ -39,10 +39,10 @@ author_profile: true
 > This competition is organized by Hyundai Motor and is open to both undergraduate and graduate students in Korea. The preliminary round takes place in the CarMaker simulation environment, where participants undertake various tasks such as dynamic obstacle avoidance, static obstacle avoidance, traffic light handling, and lane-keeping. The final round retains similar missions but is conducted using modified real vehicles. </p> 
 > 
 > <p><b>Details</b> <br>
-> I developed software to execute various missions in the CarMaker simulation, contributing to the development of object detection through a modified version of YOLO v3, object tracking using Kalman Filter with lidar and camera, and implementing an Optimal Frenet Planning algorithm for path planning (available on <a href="https://github.com/SNUZERO2021/hmgchallenge_public">GitHub</a>). </p> 
+> I developed software to execute various missions in the CarMaker simulation, contributing to the development of object detection through a modified version of YOLO v3, object tracking using Kalman Filter with lidar and camera, and implementing an Optimal Frenet Planning algorithm for path planning (available on <a href="https://vdcl.snu.ac.kr/members/professor">GitHub</a>). </p> 
 > 
 > <p><b>Remarks</b> <br>
-> Our team participated in this competition up to the preliminary round after passing the document screening. </p> 
+> Our team participated in this competition up to the preliminary round after passing the document screening. The entire process of the project was carried out under the guidance of Professor <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Kyongsu Yi</a> at Seoul National University. </p> 
 > 
 > </details>
 
@@ -70,6 +70,21 @@ author_profile: true
 > **International Student Car Competition 2020**  
 > *Autonomous Driving Competition for International Students*  
 > *Mar 2020 - Aug 2020*  
+> <details>
+> <summary>Click to toggle details</summary>
+> 
+> <p><b>Project Description</b> <br>
+> <img src='/images/kcity.jpg'/> <br>
+> This competition is an undergraduate contest organized by the Ministry of Land, Infrastructure, and Transport of South Korea. It involves various tasks such as static obstacle avoidance, dynamic obstacle avoidance, traffic light recognition, parking, and curve driving. Awards are given to the teams that complete all missions in the shortest amount of time. </p> 
+> 
+> <p><b>Details</b> <br>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/EEYO5-M3jzM?si=ExjMZN9KNvOAHDF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+> I served as the Deputy Team Leader for the entire project and concurrently held the position of Team Leader for the Vision Team. The project was conducted at the Future Mobility Technology Center (FMTC) at Seoul National University. I developed autonomous driving software, focusing particularly on real-time parking slot detection using a modified version of YOLO v3, traffic light detection with YOLO v3, and lane detection utilizing the LaneNet algorithm. </p> 
+> 
+> <p><b>Remarks</b> <br>
+> The entire process of this competition was conducted under the guidance and assistance of <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Kyongsu Yi</a> and Dr. Lee Jae-wan. </p> 
+> 
+> </details>
 
 > **Autonomous Delivery Project**  
 > *Autonomous Delivery Project conducted by [Autonomous Robot Intelligence Lab.](https://arisnu.squarespace.com/)*  
