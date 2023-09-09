@@ -42,7 +42,7 @@ author_profile: true
 > I developed software to execute various missions in the CarMaker simulation, contributing to the development of object detection through a modified version of YOLO v3, object tracking using Kalman Filter with lidar and camera, and implementing an Optimal Frenet Planning algorithm for path planning (available on <a href="https://vdcl.snu.ac.kr/members/professor">GitHub</a>). </p> 
 > 
 > <p><b>Remarks</b> <br>
-> Our team participated in this competition up to the preliminary round after passing the document screening. The entire process of the project was carried out under the guidance of Professor <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Kyongsu Yi</a> at Seoul National University. </p> 
+> Our team participated in this competition up to the preliminary round after passing the document screening. The entire process of the project was carried out under the guidance of Professor <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> at Seoul National University. </p> 
 > 
 > </details>
 
@@ -74,16 +74,21 @@ author_profile: true
 > <summary>Click to toggle details</summary>
 > 
 > <p><b>Project Description</b> <br>
-> <img src='/images/kcity.jpg'/> <br>
-> This competition is an undergraduate contest organized by the Ministry of Land, Infrastructure, and Transport of South Korea. It involves various tasks such as static obstacle avoidance, dynamic obstacle avoidance, traffic light recognition, parking, and curve driving. Awards are given to the teams that complete all missions in the shortest amount of time. </p> 
+> This competition is an undergraduate contest organized by the Ministry of Land, Infrastructure, and Transport of South Korea. It involves various tasks such as static obstacle avoidance, dynamic obstacle avoidance, traffic light recognition, parking, and curve driving. Awards are given to the teams that complete all missions in the shortest amount of time. This competition encompasses everything from building a platform capable of autonomous driving to developing the autonomous driving software itself. </p> 
 > 
 > <p><b>Details</b> <br>
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/EEYO5-M3jzM?si=ExjMZN9KNvOAHDF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
 > I served as the Deputy Team Leader for the entire project and concurrently held the position of Team Leader for the Vision Team. The project was conducted at the Future Mobility Technology Center (FMTC) at Seoul National University. I developed autonomous driving software, focusing particularly on real-time parking slot detection using a modified version of YOLO v3, traffic light detection with YOLO v3, and lane detection utilizing the LaneNet algorithm. </p> 
 > 
 > <p><b>Remarks</b> <br>
-> The entire process of this competition was conducted under the guidance and assistance of <a href="https://rllab.snu.ac.kr/people/songhwai-oh">Kyongsu Yi</a> and Dr. Lee Jae-wan. </p> 
+> The entire process of this competition was conducted under the guidance and assistance of <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> and Dr. Lee Jae-wan. </p> 
 > 
+> <p><b>Photo</b> <br>
+> <img src='/images/zero-1.jpg'/> <br>
+> <img src='/images/zero-2.jpg'/> <br>
+> <img src='/images/zero-3.jpg'/> <br>
+> </p>
+>
 > </details>
 
 > **Autonomous Delivery Project**  
