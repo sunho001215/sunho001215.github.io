@@ -108,7 +108,7 @@ author_profile: true
 > I served as the Deputy Team Leader for the entire project and concurrently held the position of Team Leader for the Vision Team. The project was conducted at the Future Mobility Technology Center (FMTC) at Seoul National University. Our team implemented an autonomous driving platform using two cameras, one LiDAR, one GPS, and one IMU. We developed a comprehensive autonomous driving algorithm that includes HD map creation, localization, path-planning, object detection and vision algorithms. I developed autonomous driving software, focusing particularly on real-time parking slot detection using a modified version of YOLO v3, traffic light detection with YOLO v3, and lane detection utilizing the LaneNet algorithm. (<a href="https://github.com/snuzero2020/zero">GitHub</a>)</p> 
 > 
 > <p><b>Remarks</b> <br>
-> The entire process of this competition was conducted under the guidance and assistance of <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> and Dr. Jae-wan Lee. </p> 
+> The entire process of this competition was conducted under the guidance and assistance of <a href="https://vdcl.snu.ac.kr/members/professor">Kyongsu Yi</a> and Dr. Jaewan Lee. </p> 
 > 
 > <p><b>Video</b> <br>
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/EEYO5-M3jzM?si=ExjMZN9KNvOAHDF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
