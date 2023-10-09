@@ -125,10 +125,10 @@ author_profile: true
 > This project was conducted at ARI lab, and the goal of the project is to develop a delivery robot capable of delivering food without human intervention. </p> 
 > 
 > <p><b>Details</b> <br>
-> I participated in the initial phase of the project. (<a href="https://www.youtube.com/watch?v=hNRs1_4xCZg">YouTube</a>) </p> 
+> I participated in the initial phase of the project and was involved in the prototype design. (<a href="https://www.youtube.com/watch?v=hNRs1_4xCZg">YouTube</a>) </p> 
 > 
 > <p><b>Remarks</b> <br>
-> The entire process of the project was carried out under the guidance of Professor <a href="https://arisnu.squarespace.com/director">Seong-Woo Kim(Sungwoo Kim)</a> at Seoul National University. </p> 
+> The entire process of the project was carried out under the guidance of Professor <a href="https://arisnu.squarespace.com/director">Seong-Woo Kim (Sungwoo Kim)</a> at Seoul National University. </p> 
 > 
 > <p><b>Video</b> <br>
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/hNRs1_4xCZg?si=IwGqDo_XmYC7_GKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
