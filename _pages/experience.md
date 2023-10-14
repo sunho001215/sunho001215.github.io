@@ -42,24 +42,14 @@ Military Service
 > *Korea Army, Republic of Korea*  
 > *Oct 2022*
 
-Extracurricular Activities  
-======
-> **ZERO**  
-> *Undergraduate Autonomous Driving Club*  
-> *Mechanical Engineering, Seoul National University*  
-> *Nov 2019 - Aug 2021*  
-> - Served as the Deputy President of the club, Vision Team Leader, New Member Education Team Leader, and Maker Project Team Leader.  
-> - Participated in projects such as the HMG Autonomous Driving Challenge 2021, K-Startup Maker Project 2020, X-Corps Project 2020, and the International Student Car Competition 2020. ([Projects](https://sunho001215.github.io/projects/))  
-> - Conducted club activities under the guidance of Professor [Kyongsu Yi](https://vdcl.snu.ac.kr/members/professor).  
-
-> **RunToYou**  
-> Undergraduate Custom Car Club  
-> *Mechanical Engineering, Seoul National University*  
-> *Mar 2020 - Apr 2020*  
-
 Teaching  
 ======  
 > **Basic Physics 2 Tutor**  
 > *Seoul National University*  
 > *Nov 2019 - Dec 2019*  
-> - Provided 30 hours of lecture for freshman  
+> - Provided 30 hours of lecture for freshman
+
+> **ROS and Linux Introductory Educator for New Members**
+> *Undergraduate Autonomous Driving Club (ZERO), Seoul National University*
+> *Mar 2020 - Jun 2020*
+> - Conducted introductory training on ROS and Linux for new club members.
