@@ -140,8 +140,8 @@ author_profile: true
 > *Jan 2019*  
 > <details>
 > <summary>Click to toggle details</summary>
-> [](http://dyros.snu.ac.kr/)
-> 
+>
+> <p><b>Details</b> <br>
 > DYROS Boot Camp is an educational program conducted by <a href="http://dyros.snu.ac.kr/features/about-us/">Dynamic Robotics Systems Lab.</a>, offering lectures on ROS, Linux, and robot simulators. </p> 
 > 
 > </details>
