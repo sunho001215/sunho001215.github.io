@@ -16,7 +16,7 @@ author_profile: true
 > <p><b>Photo</b> <br>
 > Singapore, October 4, 2023 <br>
 > <img src='/images/DS-RT_2023.jpg' width="450"/> <br>
-> 
+> </p> 
 > </details>
   
 > **Autoware Controller Interface for Actual Vehicle Driving**  
