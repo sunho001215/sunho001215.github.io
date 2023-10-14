@@ -44,6 +44,6 @@ Military Service
 
 Miscellaneous
 ======
-> **"Basic Physics 2" Tutor**  
-> *General Education Peer Tutoring Program, Seoul National University*  
+> **Basic Physics 2 Tutor**  
+> *Seoul National University*  
 > *Nov 2019 - Dec 2019*
