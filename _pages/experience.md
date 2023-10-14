@@ -44,12 +44,12 @@ Military Service
 
 Teaching  
 ======  
+> **ROS and Linux Introductory Educator**  
+> *Undergraduate Autonomous Driving Club, Seoul National University*  
+> *Mar 2020 - Jun 2020*  
+> - Conducted introductory training on ROS and Linux for new club members.
+
 > **Basic Physics 2 Tutor**  
 > *Seoul National University*  
 > *Nov 2019 - Dec 2019*  
 > - Provided 30 hours of lecture for freshman
-
-> **ROS and Linux Introductory Educator**  
-> *Undergraduate Autonomous Driving Club, Seoul National University*  
-> *Mar 2020 - Jun 2020*  
-> - Conducted introductory training on ROS and Linux for new club members.  
