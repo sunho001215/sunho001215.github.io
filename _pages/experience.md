@@ -49,7 +49,7 @@ Teaching
 > *Nov 2019 - Dec 2019*  
 > - Provided 30 hours of lecture for freshman
 
-> **ROS and Linux Introductory Educator for New Members**
-> *Undergraduate Autonomous Driving Club (ZERO), Seoul National University*
-> *Mar 2020 - Jun 2020*
-> - Conducted introductory training on ROS and Linux for new club members.
+> **ROS and Linux Introductory Educator for New Members**  
+> *Undergraduate Autonomous Driving Club (ZERO), Seoul National University*  
+> *Mar 2020 - Jun 2020*  
+> - Conducted introductory training on ROS and Linux for new club members.  
