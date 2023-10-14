@@ -20,6 +20,11 @@ author_profile: true
 > - Analyzed transformer-based deep learning model and designed accelerator hardware specialized in language processing.  
 > - Completed new employee orientation program.
 
+> **[Autonomous Robot Intelligence Lab.](https://arisnu.squarespace.com/) (@ Seoul National University)**  
+> *Engineering Intern*  
+> *Jan 2020 - Mar 2020*
+> - Participated in the [Autonomous Delivery Project](https://sunho001215.github.io/projects/).
+
 > **[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) (@ Seoul National University)**  
 > *Autonomous Driving Intern*  
 > *Jan 2020 - Feb 2020*  
@@ -39,7 +44,6 @@ Military Service
 
 Miscellaneous
 ======
-> **General Education Peer Tutoring Program**  
-> *Seoul National University*  
-> *Nov 2019 - Dec 2019*  
-> - Served as a tutor for the 'Basic Physics 2' course.
+> **"Basic Physics 2" Tutor**  
+> *General Education Peer Tutoring Program, Seoul National University*  
+> *Nov 2019 - Dec 2019*
