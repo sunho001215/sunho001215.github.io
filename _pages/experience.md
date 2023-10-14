@@ -53,7 +53,7 @@ Extracurricular Activities
 > - Conducted club activities under the guidance of Professor [Kyongsu Yi](https://vdcl.snu.ac.kr/members/professor).  
 
 > **RunToYou**  
-> "Undergraduate Custom Car Club"  
+> Undergraduate Custom Car Club  
 > *Mechanical Engineering, Seoul National University*  
 > *Mar 2020 - Apr 2020*  
 
