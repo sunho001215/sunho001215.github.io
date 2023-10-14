@@ -4,8 +4,8 @@ title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
-> **Software Engineering Intern**  
-> *[Real-Time Ubiquitous Systems Lab.](https://rubis.snu.ac.kr/) in Seoul National University*  
+> **[Real-Time Ubiquitous Systems Lab.](https://rubis.snu.ac.kr/) (@ Seoul National University)**  
+> *Software Engineering Intern*  
 > *Jan 2022 - Sep 2022*  
 > - Developed autonomous driving algorithms based on Autoware ([GitHub](https://github.com/rubis-lab/Autoware_On_Embedded))  
 >     - Particularly involved in sensor fusion and localization using GPS and IMU, creating HD maps using LiDAR data, and developing vehicle control algorithms.  
@@ -14,14 +14,14 @@ author_profile: true
 > - Conducted research on how to improve the overall response time of ROS (Robot Operating System)  
 >    - Detailed information can be found on my [Publications](https://sunho001215.github.io/publications/) page.  
 
-> **Hardware Engineering Intern**  
-> *Samsung Electronics (System LSI)*  
+> **Samsung Electronics (System LSI)**  
+> *Hardware Engineering Intern*  
 > *Jul 2021 - Aug 2021*  
 > - Analyzed transformer-based deep learning model and designed accelerator hardware specialized in language processing.  
 > - Completed new employee orientation program.
 
-> **Autonomous Driving Intern**  
-> *[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) in Seoul National University*  
+> **[Dynamic Robotics Systems Lab.](http://dyros.snu.ac.kr/) (@ Seoul National University)**  
+> *Autonomous Driving Intern*  
 > *Jan 2020 - Feb 2020*  
 > - Participated in creating datasets for lane detection and traffic light detection.  
 > - Designed path planning algorithms for vehicle parking.  
