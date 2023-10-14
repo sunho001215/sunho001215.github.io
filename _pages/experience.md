@@ -35,4 +35,11 @@ Military Service
 
 > **Korea Army Training Center**  
 > *Korea Army, Republic of Korea*  
-> *Oct 2022*  
+> *Oct 2022*
+
+Miscellaneous
+======
+> **General Education Peer Tutoring Program**  
+> *Seoul National University*  
+> *Nov 2019 - Dec 2019*  
+> - Served as a tutor for the 'Basic Physics 2' course.
