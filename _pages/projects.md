@@ -117,7 +117,7 @@ author_profile: true
 
 > **Autonomous Delivery Project**  
 > *Autonomous Delivery Project conducted by [Autonomous Robot Intelligence Lab.](https://arisnu.squarespace.com/)*  
-> *Jan 2020 - Feb 2020*
+> *Jan 2020 - Mar 2020*
 > <details>
 > <summary>Click to toggle details</summary>
 > 
