@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 > **Degree Honors: Summa Cum Laude**  
-> *Seoul National University, Korea*  
+> *Seoul National University*  
 > *Aug 2022*  
 
 > **Deep Learning Hardware Design Competition 2022**  
