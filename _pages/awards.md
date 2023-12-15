@@ -4,6 +4,10 @@ title: "Honors and Awards"
 permalink: /awards/
 author_profile: true
 ---
+> **Degree Honors: Summa Cum Laude**  
+> *Seoul National University, Korea*  
+> *Aug 2022*  
+
 > **Deep Learning Hardware Design Competition 2022**  
 > *Polaris, Korea*  
 > *Feb 2022 - Jul 2022*  
