@@ -78,7 +78,9 @@ author_profile: true
 > </p> 
 >
 > <p><b>Video</b> <br>
-> <iframe width="560" height="315" src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/xcorps_video.mp4"></iframe> <br>
+> <video width="320" height="240" controls>
+>  <source src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/xcorps_video.mp4" type="video/mp4">
+> </video>
 > </p> 
 > </details>
 
