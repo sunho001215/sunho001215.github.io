@@ -76,6 +76,10 @@ author_profile: true
 > <img src='/images/zero-4.bmp' width="300" height="225"/>
 > <img src='/images/zero-5.bmp' width="300" height="225"/> <br>
 > </p> 
+>
+> <p><b>Video</b> <br>
+> <iframe width="560" height="315" src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/xcorps_video.mp4"></iframe> <br>
+> </p> 
 > </details>
 
 > **X-Corps Project 2020**  
