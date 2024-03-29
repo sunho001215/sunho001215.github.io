@@ -78,9 +78,7 @@ author_profile: true
 > </p> 
 >
 > <p><b>Video</b> <br>
-> <video width="320" height="240" controls>
->  <source src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/xcorps_video.mp4" type="video/mp4">
-> </video>
+> [<img src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/zero-1.jpg" width="50%">](https://github.com/sunho001215/sunho001215.github.io/blob/master/images/xcorps_video.mp4)
 > </p> 
 > </details>
 
