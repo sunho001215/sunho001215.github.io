@@ -80,7 +80,7 @@ author_profile: true
 > <p><b>Video</b> <br>
 > <video width="320" height="240" controls loop="" muted="" autoplay="">
 >   <source src="https://github.com/sunho001215/sunho001215.github.io/blob/master/images/xcorps_video.mp4">
-  </video>
+> </video>
 > </p> 
 > </details>
 
