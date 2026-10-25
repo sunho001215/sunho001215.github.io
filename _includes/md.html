@@ -1,0 +1,2 @@
+{%- comment -%}Renders a one-line Markdown string inline (no wrapping <p>).{%- endcomment -%}
+{{- include.text | markdownify | remove: "<p>" | remove: "</p>" | strip -}}

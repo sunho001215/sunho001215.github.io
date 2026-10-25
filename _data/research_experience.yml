@@ -1,0 +1,48 @@
+# Rendered by _includes/entry.html, in this order.
+# A detail is either a string or { text, sub } for nested bullets.
+- name: Ha Lab
+  url: https://faculty.cc.gatech.edu/~sha9/
+  affiliation: Georgia Institute of Technology
+  logo: georgia-tech.png
+  role: Visiting Researcher
+  period: Jun 2025 – Sep 2025
+  details:
+    - Conducted research at Georgia Tech as part of the [Medical Assistant Humanoid Mobile Robot Project](/projects/medical-assistant-humanoid/).
+    - Explored multi-view imitation learning to overcome the limitations of VR-based active vision algorithms.
+    - Collaborated with Prof. Sehoon Ha (Georgia Tech) and Dr. Joonho Lee (Neuromeka).
+
+- name: Real-Time Ubiquitous Systems Lab
+  url: https://rubis.snu.ac.kr/
+  affiliation: Seoul National University
+  logo: snu.png
+  role: Software Engineering Intern
+  period: Jan 2022 – Sep 2022
+  details:
+    - text: Developed autonomous driving software based on Autoware ([GitHub](https://github.com/rubis-lab/Autoware_On_Embedded)).
+      sub:
+        - Implemented GPS/IMU sensor fusion and localization, built HD maps from LiDAR data, and developed vehicle control algorithms.
+        - Set up and tested the autonomous driving stack on an NVIDIA Jetson AGX Xavier.
+    - Collected data for [digital phenotyping and mental health AI research](https://rubis.snu.ac.kr/researches).
+    - Researched ways to improve the end-to-end response time of ROS (Robot Operating System).
+    - Advised by Prof. Chang-Gun Lee
+
+- name: Autonomous Robot Intelligence Lab
+  url: https://arisnu.squarespace.com/
+  affiliation: Seoul National University
+  logo: snu.png
+  role: Engineering Intern
+  period: Jan 2020 – Mar 2020
+  details:
+    - Participated in the [Autonomous Delivery Project](/projects/autonomous-delivery-project/).
+    - Advised by Prof. Seong-Woo Kim
+
+- name: Dynamic Robotics Systems Lab
+  url: http://dyros.snu.ac.kr/
+  affiliation: Seoul National University
+  logo: snu.png
+  role: Autonomous Driving Intern
+  period: Jan 2020 – Feb 2020
+  details:
+    - Created datasets for lane detection and traffic light detection.
+    - Developed path planning algorithms for vehicle parking.
+    - Advised by Prof. Jaeheung Park

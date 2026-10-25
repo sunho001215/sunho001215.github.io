@@ -1,0 +1,9 @@
+# Rendered by _includes/entry.html, in this order.
+- name: Samsung Electronics
+  affiliation: System LSI
+  logo: samsung.png
+  role: Hardware Engineering Intern
+  period: Jul 2021 – Aug 2021
+  details:
+    - Analyzed a Transformer-based deep learning model and designed accelerator hardware specialized for language processing.
+    - Completed the new-employee orientation program.

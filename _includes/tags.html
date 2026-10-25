@@ -1,0 +1,5 @@
+<ul class="tags">
+  {%- for t in include.tags %}
+  <li class="tag tag-{{ site.data.tag_colors[t] | default: 'default' }}">{{ t }}</li>
+  {%- endfor %}
+</ul>

@@ -1,0 +1,12 @@
+{%- comment -%}Several images side by side with one caption. Params: images (comma-separated paths), caption.{%- endcomment -%}
+{%- assign imgs = include.images | split: "," -%}
+<figure class="figure">
+  <div class="figure-row">
+    {%- for src in imgs %}
+    <img src="{{ src | strip | relative_url }}" alt="{{ include.caption }} ({{ forloop.index }} of {{ imgs.size }})" loading="lazy">
+    {%- endfor %}
+  </div>
+  {%- if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {%- endif %}
+</figure>

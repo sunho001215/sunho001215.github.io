@@ -1,0 +1,13 @@
+{%- comment -%}
+  Compact grid item, used for Awards, Teaching, and Military Service.
+  Params: item = { title, subtitle, context, period, note, link }
+{%- endcomment -%}
+{%- assign i = include.item -%}
+<article class="item">
+  <h3 class="item-title">{% if i.link %}<a href="{{ i.link | relative_url }}">{{ i.title }}</a>{% else %}{{ i.title }}{% endif %}</h3>
+  <p class="item-subtitle">{{ i.subtitle }}</p>
+  <p class="item-meta">{% if i.context %}{{ i.context }}<span class="meta-sep" aria-hidden="true">|</span>{% endif %}<span class="period">{{ i.period }}</span></p>
+  {%- if i.note %}
+  <p class="item-note">{{ i.note }}</p>
+  {%- endif %}
+</article>

@@ -1,0 +1,17 @@
+{%- assign a = site.author -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ a.name | jsonify }},
+  "url": {{ "/" | absolute_url | jsonify }},
+  "image": {{ site.og_image | absolute_url | jsonify }},
+  "email": {{ a.email | prepend: "mailto:" | jsonify }},
+  "jobTitle": {{ a.job_title | jsonify }},
+  "affiliation": { "@type": "CollegeOrUniversity", "name": {{ a.affiliation | jsonify }} },
+  "alumniOf": { "@type": "CollegeOrUniversity", "name": {{ a.alumni_of | jsonify }} },
+  "address": { "@type": "PostalAddress", "addressLocality": "Daejeon", "addressCountry": "KR" },
+  "knowsAbout": {{ a.research_interests | jsonify }},
+  "sameAs": [{{ a.google_scholar | jsonify }}, {{ a.github | jsonify }}]
+}
+</script>

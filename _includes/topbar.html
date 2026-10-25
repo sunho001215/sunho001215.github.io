@@ -1,0 +1,21 @@
+{%- assign home = "/" | relative_url -%}
+<header class="topbar" id="topbar">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="{{ home }}" class="crumb-home">{% include icon.html name="cloud" %}<span>{{ site.title }}</span></a>
+    {%- if page.collection == "projects" or page.crumb == "projects" %}
+    <span class="crumb-sep" aria-hidden="true">/</span>
+    <a href="{{ '/projects/' | relative_url }}">Projects</a>
+    {%- endif %}
+    {%- if page.collection == "projects" %}
+    <span class="crumb-sep" aria-hidden="true">/</span>
+    <span class="crumb-current" aria-current="page">{{ page.title }}</span>
+    {%- endif %}
+  </nav>
+  <nav class="topnav" aria-label="Sections">
+    <a class="topnav-section" href="{{ home }}#publications">Publications</a>
+    <a class="topnav-section" href="{{ home }}#research-experience">Experience</a>
+    <a class="topnav-section" href="{{ '/projects/' | relative_url }}">Projects</a>
+    <a class="topnav-section" href="{{ home }}#awards">Awards</a>
+    <a href="{{ site.author.cv }}" target="_blank" rel="noopener">CV</a>
+  </nav>
+</header>

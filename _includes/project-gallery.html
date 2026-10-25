@@ -1,0 +1,17 @@
+{%- comment -%}Gallery of project cards, newest first (same layout as the Notion gallery view).{%- endcomment -%}
+{%- assign projects = site.projects | sort: "start_date" | reverse -%}
+<div class="gallery">
+  {%- for p in projects %}
+  <a class="card" href="{{ p.url | relative_url }}">
+    <div class="card-cover{% if p.cover_fit == 'contain' %} card-cover-contain{% endif %}">
+      <img src="{{ p.cover | relative_url }}" alt="" loading="lazy" style="object-position: center {{ p.cover_position | default: '50%' }}">
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ p.title }}</h3>
+      <p class="card-desc">{{ p.description }}</p>
+      <p class="card-date">{% include period.html start=p.start_date end=p.end_date %}</p>
+      {% include tags.html tags=p.tags %}
+    </div>
+  </a>
+  {%- endfor %}
+</div>

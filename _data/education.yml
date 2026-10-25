@@ -1,0 +1,24 @@
+# Rendered by _includes/entry.html, in this order.
+- name: Korea Advanced Institute of Science and Technology (KAIST)
+  logo: kaist.png
+  role: M.S. in Electrical Engineering
+  period: Jul 2024 – Present
+  details:
+    - Research Assistant at the [Intelligent Robotic Systems Lab (IRSL)](https://sites.google.com/view/kaist-roboticslab/home)
+    - Advised by Prof. Min Jun Kim
+    - "GPA: 4.00/4.3"
+
+- name: Seoul National University (SNU)
+  logo: snu.png
+  role: B.S. in Mechanical Engineering and System Semiconductor Engineering for AI
+  period: Mar 2018 – Aug 2022
+  details:
+    - "GPA: 3.94/4.3 (cumulative), 3.80/4.3 (major), 3.98/4.3 (interdisciplinary major)"
+    - "Honors: Summa Cum Laude"
+
+- name: Sejong Science High School
+  logo: sejong-science-hs.jpg
+  role: High school for students gifted in mathematics and science
+  period: Mar 2016 – Feb 2018
+  details:
+    - Early graduation

@@ -1,0 +1,10 @@
+{%- comment -%}Formats a start/end date pair as "Sep 2025 – Feb 2026", "Dec 2024 – Present", or "Jan 2019".{%- endcomment -%}
+{%- assign p_start = include.start | date: "%b %Y" -%}
+{%- if include.end == "present" -%}
+  {%- assign p_end = "Present" -%}
+{%- elsif include.end -%}
+  {%- assign p_end = include.end | date: "%b %Y" -%}
+{%- else -%}
+  {%- assign p_end = nil -%}
+{%- endif -%}
+{{- p_start -}}{%- if p_end and p_end != p_start %} – {{ p_end }}{% endif -%}

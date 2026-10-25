@@ -1,0 +1,33 @@
+# Rendered by _includes/item.html, in this order (newest first).
+- title: Government-sponsored Scholarship
+  subtitle: Korean Government
+  period: Sep 2024 – Present
+
+- title: "Degree Honors: Summa Cum Laude"
+  subtitle: Seoul National University
+  period: Aug 2022
+
+- title: KCC Undergraduate Thesis Award 2022
+  subtitle: Korea Computer Congress (KCC) 2022
+  period: Jul 2022
+  note: Participation Award
+
+- title: Deep Learning Hardware Design Competition 2022
+  subtitle: Polaris, Korea
+  period: Feb 2022 – Jul 2022
+  note: 2nd place out of 111 teams nationwide ($2,000 prize)
+  link: /projects/dl-hardware-design-competition-2022/
+
+- title: X-Corps Project 2020
+  subtitle: Practical Problem Research Group, Seoul National University
+  period: Jul 2020 – Dec 2020
+  note: Excellence Prize ($1,000 prize)
+  link: /projects/x-corps-project-2020/
+
+- title: Industrial Scholarship
+  subtitle: Samsung Electronics Device Solutions
+  period: Mar 2020 – Jun 2022
+
+- title: Academic Excellence Scholarship
+  subtitle: Seoul National University
+  period: Aug 2018 – Jun 2021

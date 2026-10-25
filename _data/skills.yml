@@ -1,0 +1,12 @@
+# Rendered as a table on the home page. `icon` is a name defined in _includes/icon.html.
+- category: Programming
+  icon: code
+  items: [Python, C, C++, CUDA, PyTorch, JAX, MATLAB, Git, LaTeX, Markdown]
+
+- category: Robotics
+  icon: bot
+  items: [ROS, MuJoCo, Isaac Lab, SolidWorks]
+
+- category: Circuit Design
+  icon: cpu
+  items: [Verilog, Bluespec, ModelSim, Vivado, Cadence Virtuoso]

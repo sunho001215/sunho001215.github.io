@@ -1,0 +1,18 @@
+# Project tag -> color (same palette as the original Notion database).
+# Colors: default, gray, brown, orange, yellow, green, blue, purple, pink, red
+Robotics: blue
+Object Manipulation: red
+Humanoid: brown
+Medical Robot: green
+Teleoperation: green
+Data Collection: gray
+Dexterous Hand: default
+Optimization: purple
+Computer Vision: green
+Path Planning: gray
+Localization: orange
+Autonomous Driving: blue
+Hardware Accelerator: orange
+FPGA: blue
+ROS (Robot Operating System): brown
+Linux: purple

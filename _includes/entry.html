@@ -1,0 +1,33 @@
+{%- comment -%}
+  Logo + title + meta + bullet list, used for Education and Experience.
+  Params: item = { name, url, affiliation, logo, role, period, details }
+{%- endcomment -%}
+{%- assign e = include.item -%}
+<article class="entry">
+  <div class="logo"><img src="{{ '/assets/img/logos/' | append: e.logo | relative_url }}" alt="{{ e.affiliation | default: e.name }} logo" loading="lazy"></div>
+  <div class="entry-body">
+    <h3 class="entry-title">
+      {%- if e.url %}<a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.name }}</a>{% else %}{{ e.name }}{% endif -%}
+      {%- if e.affiliation %} <span class="entry-affiliation">({{ e.affiliation }})</span>{% endif -%}
+    </h3>
+    <p class="entry-meta">{{ e.role }}</p>
+    <p class="entry-period">{{ e.period }}</p>
+    {%- if e.details %}
+    <ul class="entry-details">
+      {%- for d in e.details %}
+      {%- if d.text %}
+      <li>{% include md.html text=d.text %}
+        <ul>
+          {%- for s in d.sub %}
+          <li>{% include md.html text=s %}</li>
+          {%- endfor %}
+        </ul>
+      </li>
+      {%- else %}
+      <li>{% include md.html text=d %}</li>
+      {%- endif %}
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </div>
+</article>

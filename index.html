@@ -1,0 +1,166 @@
+---
+layout: default
+---
+{%- assign a = site.author -%}
+<div class="cover" aria-hidden="true">
+  <img src="{{ '/assets/img/cover.jpg' | relative_url }}" alt="">
+</div>
+
+<div class="page">
+  <div class="page-icon" aria-hidden="true">{% include icon.html name="cloud" %}</div>
+  <h1 class="page-title">{{ a.name }}</h1>
+
+  <div class="layout">
+    <aside class="sidebar" aria-label="Profile">
+      <img class="profile-photo" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Portrait of {{ a.name }}" width="640" height="823">
+
+      <div class="side-group">
+        <h2 class="side-heading">Contact</h2>
+        <ul class="contact-list">
+          {%- if a.phone %}
+          <li>{% include icon.html name="phone" %}<a href="tel:{{ a.phone | remove: ' ' | remove: '-' }}">{{ a.phone }}</a></li>
+          {%- endif %}
+          {%- if a.email %}
+          <li>{% include icon.html name="mail" %}<a href="mailto:{{ a.email }}">{{ a.email }}</a></li>
+          {%- endif %}
+          {%- if a.location %}
+          <li>{% include icon.html name="map-pin" %}<span>{{ a.location }}</span></li>
+          {%- endif %}
+          {%- if a.google_scholar %}
+          <li>{% include icon.html name="scholar" %}<a href="{{ a.google_scholar }}" target="_blank" rel="noopener me">Google Scholar</a></li>
+          {%- endif %}
+          {%- if a.github %}
+          <li>{% include icon.html name="github" %}<a href="{{ a.github }}" target="_blank" rel="noopener me">GitHub</a></li>
+          {%- endif %}
+          {%- if a.cv %}
+          <li>{% include icon.html name="file-text" %}<a href="{{ a.cv }}" target="_blank" rel="noopener">CV</a></li>
+          {%- endif %}
+        </ul>
+      </div>
+
+      <div class="side-group">
+        <h2 class="side-heading">Languages</h2>
+        <ul class="contact-list">
+          {%- for l in a.languages %}
+          <li><span class="lang-code" aria-hidden="true">{{ l.code }}</span><span>{{ l.name }}</span></li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </aside>
+
+    <main id="main" class="content">
+      <section id="about" class="callout">
+        <div class="callout-icon" aria-hidden="true">{% include icon.html name="cactus" %}</div>
+        <div class="callout-body">
+          <p>I'm a <strong>master's student in Electrical Engineering at KAIST</strong> (Korea Advanced Institute of Science and Technology), advised by <strong>Prof. Min Jun Kim</strong> in the Intelligent Robotic Systems Lab (IRSL). I received my <strong>B.S. from Seoul National University</strong> in Mechanical Engineering and System Semiconductor Engineering for AI.</p>
+          <p>I am broadly interested in <strong>robot learning</strong>, with a focus on <strong>visuomotor control</strong> and <strong>manipulation</strong>. My current work explores how robots can learn scalable visual representations from images alone&mdash;representations that capture enough 3D structure and semantics to support robust manipulation in real-world environments. Ultimately, I hope to contribute to robot foundation models and vision&ndash;language&ndash;action systems that generalize across tasks, viewpoints, and embodiments.</p>
+        </div>
+      </section>
+
+      <section id="education" class="section">
+        <h2 class="section-title">Education</h2>
+        {%- for e in site.data.education %}
+        {% include entry.html item=e %}
+        {%- endfor %}
+      </section>
+
+      <section id="publications" class="section">
+        <h2 class="section-title">Publications</h2>
+        {%- for pub in site.data.publications %}
+        <article class="pub">
+          <div class="pub-thumb">
+            <img src="{{ '/assets/img/publications/' | append: pub.image | relative_url }}" alt="Figure from &quot;{{ pub.title }}&quot;" loading="lazy">
+          </div>
+          <div class="pub-body">
+            <h3 class="pub-title">{{ pub.title }}</h3>
+            <p class="pub-authors">
+              {%- for author in pub.authors -%}
+                {%- if author == a.name %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif -%}
+                {%- unless forloop.last %}, {% endunless -%}
+              {%- endfor -%}
+            </p>
+            <p class="pub-venue"><em>{{ pub.venue }}</em>, {{ pub.year }}{% if pub.note %} <span class="pub-note">&middot; {{ pub.note }}</span>{% endif %}</p>
+            {%- if pub.links %}
+            <p class="pub-links">
+              {%- for l in pub.links %}
+              {%- assign internal = l.url | slice: 0 %}
+              <a class="btn" href="{{ l.url | relative_url }}"{% if internal != "/" %} target="_blank" rel="noopener"{% endif %}>{{ l.name }}</a>
+              {%- endfor %}
+            </p>
+            {%- endif %}
+          </div>
+        </article>
+        {%- endfor %}
+      </section>
+
+      <section id="research-experience" class="section">
+        <h2 class="section-title">Research Experience</h2>
+        {%- for e in site.data.research_experience %}
+        {% include entry.html item=e %}
+        {%- endfor %}
+      </section>
+
+      <section id="work-experience" class="section">
+        <h2 class="section-title">Work Experience</h2>
+        {%- for e in site.data.work_experience %}
+        {% include entry.html item=e %}
+        {%- endfor %}
+      </section>
+
+      <section id="awards" class="section">
+        <h2 class="section-title">Honors and Awards</h2>
+        <div class="items">
+          {%- for i in site.data.awards %}
+          {% include item.html item=i %}
+          {%- endfor %}
+        </div>
+      </section>
+
+      <section id="projects" class="section">
+        <h2 class="section-title">Projects</h2>
+        {% include project-gallery.html %}
+      </section>
+
+      <section id="teaching" class="section">
+        <h2 class="section-title">Teaching</h2>
+        <div class="items">
+          {%- for i in site.data.teaching %}
+          {% include item.html item=i %}
+          {%- endfor %}
+        </div>
+      </section>
+
+      <section id="military-service" class="section">
+        <h2 class="section-title">Military Service</h2>
+        <div class="items">
+          {%- for i in site.data.military_service %}
+          {% include item.html item=i %}
+          {%- endfor %}
+        </div>
+      </section>
+
+      <section id="skills" class="section">
+        <h2 class="section-title">Skills</h2>
+        <table class="skills">
+          <thead>
+            <tr><th scope="col">Area</th><th scope="col">Tools and Languages</th></tr>
+          </thead>
+          <tbody>
+            {%- for s in site.data.skills %}
+            <tr>
+              <th scope="row"><span class="skill-name">{% include icon.html name=s.icon %}{{ s.category }}</span></th>
+              <td>
+                <ul class="chips">
+                  {%- for item in s.items %}
+                  <li class="chip">{{ item }}</li>
+                  {%- endfor %}
+                </ul>
+              </td>
+            </tr>
+            {%- endfor %}
+          </tbody>
+        </table>
+      </section>
+    </main>
+  </div>
+</div>

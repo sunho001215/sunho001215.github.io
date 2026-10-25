@@ -1,0 +1,33 @@
+# Rendered on the home page, in this order. The site author's name is bolded automatically.
+- title: Automated Robotic Tire Packing System with Optimization-based Online Planning Module
+  authors: [Sunho Kim, Jaehun Jeong, Kanghyun Kim, Seung Min Yang, Jiwon Kim, Seo Wook Han, Sungmin Kim, Min Jun Kim]
+  venue: To appear
+  year: 2025
+  image: tire-packing.jpg
+  links:
+    - { name: Project, url: /projects/tire-packing-optimization/ }
+
+- title: Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models
+  authors: [Tung Minh Luu, Younghwan Lee, Donghoon Lee, Sunho Kim, Min Jun Kim, Chang D. Yoo]
+  venue: International Conference on Machine Learning (ICML)
+  year: 2025
+  image: erl-vlm.png
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2506.12822" }
+
+- title: Optimizing the Response Time for ROS Tasks in Multi-Core Processors
+  authors: [Sunho Kim, Hayeon Park, Chang-Gun Lee]
+  venue: IEEE/ACM International Symposium on Distributed Simulation and Real-Time Applications (DS-RT)
+  year: 2023
+  image: ros-response-time.png
+  links:
+    - { name: IEEE Xplore, url: "https://ieeexplore.ieee.org/document/10305789" }
+
+- title: Autoware Controller Interface for Actual Vehicle Driving
+  authors: [Sunho Kim, Dongmin Shin, Chang-Gun Lee]
+  venue: Korea Computer Congress (KCC)
+  year: 2022
+  note: Participation Award, KCC Undergraduate Thesis Award
+  image: autoware-controller.png
+  links:
+    - { name: Google Scholar, url: "https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=%EC%8B%A4%EC%B0%A8+%EC%A3%BC%ED%96%89%EC%9D%84+%EC%9C%84%ED%95%9C+Autoware+%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC+%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4&btnG=" }

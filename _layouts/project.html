@@ -1,0 +1,52 @@
+---
+layout: default
+---
+{%- assign projects = site.projects | sort: "start_date" | reverse -%}
+{%- for p in projects -%}
+  {%- if p.url == page.url -%}
+    {%- assign idx = forloop.index0 -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign newer_idx = idx | minus: 1 -%}
+{%- assign older_idx = idx | plus: 1 -%}
+<div class="hero" aria-hidden="true">
+  <div class="hero-backdrop" style="background-image: url('{{ page.cover | relative_url }}')"></div>
+  <img src="{{ page.cover | relative_url }}" alt="">
+</div>
+
+<main id="main" class="article">
+  <header class="article-header">
+    <h1 class="article-title">{{ page.title }}</h1>
+    <p class="article-subtitle">{{ page.description }}</p>
+    <dl class="props">
+      <dt>{% include icon.html name="calendar" %}Date</dt>
+      <dd>{% include period.html start=page.start_date end=page.end_date %}</dd>
+      <dt>{% include icon.html name="tag" %}Tags</dt>
+      <dd>{% include tags.html tags=page.tags %}</dd>
+    </dl>
+  </header>
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  <nav class="pager" aria-label="More projects">
+    {%- if newer_idx >= 0 %}
+    {%- assign newer = projects[newer_idx] %}
+    <a class="pager-link pager-prev" href="{{ newer.url | relative_url }}">
+      <span class="pager-label">{% include icon.html name="arrow-left" %}Newer</span>
+      <span class="pager-title">{{ newer.title }}</span>
+    </a>
+    {%- else %}
+    <span></span>
+    {%- endif %}
+    {%- if older_idx < projects.size %}
+    {%- assign older = projects[older_idx] %}
+    <a class="pager-link pager-next" href="{{ older.url | relative_url }}">
+      <span class="pager-label">Older{% include icon.html name="arrow-right" %}</span>
+      <span class="pager-title">{{ older.title }}</span>
+    </a>
+    {%- endif %}
+  </nav>
+  <p class="back-link"><a href="{{ '/projects/' | relative_url }}">{% include icon.html name="arrow-left" %}All projects</a></p>
+</main>
