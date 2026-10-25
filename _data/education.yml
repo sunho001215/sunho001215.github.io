@@ -1,12 +1,18 @@
 # Rendered by _includes/entry.html, in this order.
 - name: Korea Advanced Institute of Science and Technology (KAIST)
   logo: kaist.png
-  role: M.S. in Electrical Engineering
-  period: Jul 2024 – Present
+  role: Ph.D. in Electrical Engineering
+  period: Sep 2026 – Present
   details:
     - Research Assistant at the [Intelligent Robotic Systems Lab (IRSL)](https://sites.google.com/view/kaist-roboticslab/home)
     - Advised by Prof. Min Jun Kim
-    - "GPA: 4.00/4.3"
+
+- name: Korea Advanced Institute of Science and Technology (KAIST)
+  logo: kaist.png
+  role: M.S. in Electrical Engineering
+  period: Jul 2024 – Aug 2026
+  details:
+    - Advised by Prof. Min Jun Kim
 
 - name: Seoul National University (SNU)
   logo: snu.png

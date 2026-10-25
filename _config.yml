@@ -2,7 +2,7 @@
 title: Sunho Kim
 seo_title: Sunho Kim | Robot Learning, KAIST
 description: >-
-  Sunho Kim is an M.S. student in Electrical Engineering at KAIST, advised by
+  Sunho Kim is a Ph.D. student in Electrical Engineering at KAIST, advised by
   Prof. Min Jun Kim, working on robot learning for visuomotor control and manipulation.
 url: https://sunho001215.github.io
 baseurl: ""
@@ -12,9 +12,11 @@ og_image: /assets/img/profile.jpg
 # Profile shown in the sidebar and used for SEO metadata -----------------------
 author:
   name: Sunho Kim
-  job_title: M.S. Student in Electrical Engineering
+  job_title: Ph.D. Student in Electrical Engineering
   affiliation: Korea Advanced Institute of Science and Technology (KAIST)
-  alumni_of: Seoul National University
+  alumni_of:
+    - Korea Advanced Institute of Science and Technology (KAIST)
+    - Seoul National University
   phone: "+82 10-9086-7379"
   email: sunho1215@kaist.ac.kr
   location: Daejeon, South Korea
@@ -46,6 +48,9 @@ collections:
 defaults:
   - scope: { path: "", type: projects }
     values: { layout: project }
+  # Google Search Console ownership file: served as-is, kept out of the sitemap.
+  - scope: { path: "googlefe5ee1b4150f9f44.html" }
+    values: { sitemap: false }
 
 plugins:
   - jekyll-sitemap
